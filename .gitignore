@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.tmp
+*.log
+references/captured_ui/
+LATEST_GAME_CLONE_PROMPT.md
+.DS_Store
+Thumbs.db

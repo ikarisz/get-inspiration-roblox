@@ -1,0 +1,19 @@
+{
+  "name": "roblox-inspiration",
+  "displayName": "Roblox Game Inspiration & Reference Tool",
+  "version": "1.0.0",
+  "description": "Automated UI reference capture and implementation prompt synthesizer for Roblox game creators.",
+  "author": {
+    "name": "ikarisz"
+  },
+  "repository": "https://github.com/ikarisz/get-inspiration-roblox",
+  "license": "MIT",
+  "keywords": [
+    "roblox",
+    "inspiration",
+    "ui-capture",
+    "gdd",
+    "super-prompt",
+    "gamedev"
+  ]
+}
